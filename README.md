@@ -8,11 +8,11 @@
 - Github for version control 
 - AWS for Model Deployment
 
-#Step 1
+# Step 1
 
     - Create Github Repo and clone with local
 
-#Step 2 
+# Step 2 
     - Create Virtual Env
 
     - conda create -n llmapp python=3.10 -y       ## llmapp is the name you can change
