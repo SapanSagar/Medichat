@@ -27,5 +27,17 @@
 
     - refer template.py file for more detail and coding (you can create manually as well)
 
+# Step 5 - update setup.py file (this will help to create your project as local package)
+    
+    - Refer setup.py file for details and code
+
+# Step 6 - do the experiment with model 
+
+    - Refer trails.ipynb file for details and code
+# Step 6.1 - Setup Pinecone DB
+    - open pincone.io and signup and login
+    - get your API Key details
+    - 
+
 
 
