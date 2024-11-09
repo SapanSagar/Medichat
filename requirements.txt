@@ -1,0 +1,10 @@
+sentence-transformers    # to use open source embedding model
+langchain                   
+flask
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental
