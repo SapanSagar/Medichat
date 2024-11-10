@@ -32,12 +32,31 @@
     - Refer setup.py file for details and code
 
 # Step 6 - do the experiment with model 
-
-    - Refer trails.ipynb file for details and code
-# Step 6.1 - Setup Pinecone DB
     - open pincone.io and signup and login
     - get your API Key details
-    - 
+    - Cluster and vector db setup can be done manually using pinecone GUI. But here we are using python code
+
+    - Refer trails.ipynb file for more details and code
+    - once trial is done successfully will convert the code in modules
+
+# step 7 - convert experiment code to moduler codes 
+    - add all data extraction and embedding codes in helper.py
+    - add prompt related codes to prompt.py
+    - update store_index.py file for vector db setup. This will be used only once to created db
+    - update app.py file with your flask routes and LLM model 
+
+# step 8 - create HTML and CSS files for front end
+    - refer chat.html and style.css files
+
+# step 9 - refer my another repor for model deployment
+    - https://github.com/SapanSagar/NLP-WEB-APP
+
+
+Thats all we need to do in order to crate Gen AI application.
+
+    
+
+    
 
 
 
